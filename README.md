@@ -1,6 +1,6 @@
 # ShiunRobot
-Shiun robot (勳 robot) micro:bit 二足教育機器人 
-程式皆由原作者Mason Chen 提供。
+*Shiun robot (勳 robot) micro:bit 二足教育機器人 
+*程式皆由原作者Mason Chen 提供。
 
 
 # MiniPOW Robot (Micro:bit Biped robot, Model : Shiun)
@@ -18,8 +18,6 @@ Forward / Backward / Turn Left / Turn Right / Stop
 1. Define the offset value for 4-servo motors.  (P0 / P1 /P2)
       
 2. Assign the motion to the robot. 
-
-![image](MiniPOW_example.png)
 
 Javascipt example code : 
 ==============================================================================
