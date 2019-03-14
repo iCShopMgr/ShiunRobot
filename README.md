@@ -1,6 +1,7 @@
 # ShiunRobot
-*Shiun robot (勳 robot) micro:bit 二足教育機器人 
-*程式皆由原作者Mason Chen 提供。
+Shiun robot (勳 robot) micro:bit 二足教育機器人 
+
+程式皆由原作者Mason Chen 提供。
 
 
 # MiniPOW Robot (Micro:bit Biped robot, Model : Shiun)
